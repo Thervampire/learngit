@@ -4,7 +4,7 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 I love China.
 
-Greating a new branch is qusk! 
+Greating a new branch is quick AND simple! 
 
 Greaing a new branch is good!
 oh hahha
